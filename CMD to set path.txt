@@ -1,0 +1,5 @@
+set JAVA_HOME=C:\Software\OpenJDK17              //path for jdk
+ 
+set M2_HOME=C:\Software\apache-maven-3.9.6      //path for maven
+ 
+set PATH=%JAVA_HOME%\bin;%M2_HOME%\bin;%PATH%;    //set home path for jdk and maven
